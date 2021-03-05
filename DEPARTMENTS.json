@@ -1,0 +1,2209 @@
+[
+   {
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110442",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110451",
+	                               "name":"Çevre Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"80",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110469",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110478",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110487",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103130128",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"",
+	                               "second":"İkinci Öğretim",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110496",
+	                               "name":"Jeofizik Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"20",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110503",
+	                               "name":"Jeoloji Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"30",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110512",
+	                               "name":"Maden Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110521",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103130137",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"",
+	                               "second":"İkinci Öğretim",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"90",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110539",
+	                               "name":"Metalurji ve Malzeme Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103110548",
+	                               "name":"Tekstil Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"40",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410333",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"100",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410342",
+	                               "name":"Biyomühendislik",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410351",
+	                               "name":"Deri Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"20",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410369",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"80",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410378",
+	                               "name":"Gıda Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"130",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410387",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410396",
+	                               "name":"Kimya Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"80",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410403",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"80",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "EGE ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"103410412",
+	                               "name":"Tekstil Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"80",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010309",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"7",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010318",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010327",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"16",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010866",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"22",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010424",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010433",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010442",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"12",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011079",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"30",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010336",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"10",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010345",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"6",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010354",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"8",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011088",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"36",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011025",
+	                               "name":"Enerji Sistemleri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011034",
+	                               "name":"Enerji Sistemleri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011043",
+	                               "name":"Enerji Sistemleri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"18",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011052",
+	                               "name":"Enerji Sistemleri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"6",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011149",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"6",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011113",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011122",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"11",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206011131",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"28",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206090348",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206090347",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206090354",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"14",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206090355",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"10",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010557",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"4",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010566",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010584",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"12",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "YAŞAR ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"206010875",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"29",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510022",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"4",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510676",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"24",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510746",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"16",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511374",
+	                               "name":"Biyomedikal Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"2",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511383",
+	                               "name":"Biyomedikal Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"22",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510879",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"4",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510888",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"32",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510897",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"4",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510049",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510694",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"35",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510764",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"14",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511338",
+	                               "name":"Genetik ve Biyomühendislik",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511471",
+	                               "name":"Genetik ve Biyomühendislik",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"30",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510913",
+	                               "name":"Gıda Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"2",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510922",
+	                               "name":"Gıda Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"18",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511453",
+	                               "name":"Havacılık ve Uzay Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511489",
+	                               "name":"Havacılık ve Uzay Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"30",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511153",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511444",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"36",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511277",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"9",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511435",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"4",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511408",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"36",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511347",
+	                               "name":"Mekatronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"3",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511356",
+	                               "name":"Mekatronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"25",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203511365",
+	                               "name":"Mekatronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510067",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"100",
+	                               "spec":"4",
+	                               "quota":"5",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510701",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"50",
+	                               "spec":"4",
+	                               "quota":"33",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+	           "uType": "Vakıf",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"203510773",
+	                               "name":"Yazılım Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"25",
+	                               "spec":"4",
+	                               "quota":"12",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810068",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810157",
+	                               "name":"Biyomühendislik",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"50",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810162",
+	                               "name":"Çevre Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"40",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810077",
+	                               "name":"Elektronik ve Haberleşme Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810159",
+	                               "name":"Enerji Sistemleri Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"40",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810129",
+	                               "name":"Gıda Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810111",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810086",
+	                               "name":"Kimya Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810095",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105810158",
+	                               "name":"Malzeme Bilimi ve Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"50",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"112910017",
+	                               "name":"Bilgisayar Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"112910025",
+	                               "name":"Biyomedikal Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"112910018",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"112910019",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"111110046",
+	                               "name":"Biyomedikal Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"30",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"111110081",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"111110069",
+	                               "name":"Endüstri Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"111110058",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"111110070",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"60",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710103",
+	                               "name":"Biyomedikal Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710042",
+	                               "name":"Elektrik-Elektronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710184",
+	                               "name":"Harita Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710087",
+	                               "name":"İnşaat Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710051",
+	                               "name":"Makine Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710078",
+	                               "name":"Malzeme Bilimi ve Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710112",
+	                               "name":"Mekatronik Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"70",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ],
+	       "university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+	           "uType": "Devlet",
+	           "items":
+	           [
+	              { 
+	                   "faculty":"Mühendislik ve Mimarlık Fakültesi",
+	                   "department":
+	                   [
+	                         { 
+	                               "id":"105710315",
+	                               "name":"Petrol ve Doğalgaz Mühendisliği",
+	                               "lang":"İngilizce",
+	                               "second":"",
+	                               "period":"",
+	                               "spec":"4",
+	                               "quota":"40",
+	                               "field":"SAY"
+	                         } 
+	                   ]
+	              } 
+	           ]
+   }
+]
